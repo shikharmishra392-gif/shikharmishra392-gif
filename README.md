@@ -3,42 +3,42 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F0C29,25:302B63,55:5A189A,80:7C3AED,100:A78BFA&text=SHIKHAR%20MISHRA&fontColor=FFFFFF&fontSize=50&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Product%20Builder%20%7C%20Full%20Stack%20Developer&descAlignY=52&descSize=18&animation=fadeIn)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=950&lines=Building+StudyAI+%E2%80%94+AI-Powered+Video+Learning+Platform;Java+%7C+Spring+Boot+%7C+REST+APIs+%7C+MySQL;Full+Stack+Engineering+with+a+Product+Mindset;Turning+Real+Problems+Into+Real+Software;Learning.+Building.+Shipping.+Improving." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=950&lines=Java+%7C+Spring+Boot+%7C+REST+APIs+%7C+MySQL;Full+Stack+Engineering+with+a+Product+Mindset;Turning+Real+Problems+Into+Real+Software;Learning.+Building.+Shipping.+Improving." alt="Typing SVG" />
 </a>
 
 <br/>
 
-![B.Tech CSE](https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-6D28D9?style=for-the-badge&logo=google-scholar&logoColor=white)
-![SRMS CET](https://img.shields.io/badge/SRMS%20CET-Bareilly-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Class of 2027](https://img.shields.io/badge/Class%20of-2027-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white)
+![B.Tech CSE](https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-1a1a2e?style=flat-square&labelColor=1a1a2e)
+![SRMS CET](https://img.shields.io/badge/SRMS%20CET-Bareilly-1a1a2e?style=flat-square&labelColor=1a1a2e)
+![Class of 2027](https://img.shields.io/badge/Class%20of-2027-1a1a2e?style=flat-square&labelColor=1a1a2e)
 
 <br/>
 
+<p>
 <a href="https://github.com/shikharmishra392-gif">
-  <img src="https://img.shields.io/badge/PORTFOLIO-Explore%20My%20Work-090014?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=vercel&logoColor=white&labelColor=0D1117" height="32"/>
 </a>
 <a href="https://www.linkedin.com/in/shikhar-mishra-82b744327">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117" height="32"/>
 </a>
 <a href="mailto:privatetho9@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-6D28D9?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117" height="32"/>
 </a>
 <a href="https://github.com/shikharmishra392-gif">
-  <img src="https://img.shields.io/badge/GITHUB-Follow-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" height="32"/>
 </a>
+</p>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=shikharmishra392-gif&label=PROFILE%20VIEWS&color=6D28D9&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=shikharmishra392-gif&label=PROFILE+VIEWS&color=7C3AED&style=flat-square" alt="Profile Views" height="24"/>
 <a href="https://github.com/shikharmishra392-gif?tab=followers">
-  <img src="https://img.shields.io/github/followers/shikharmishra392-gif?label=FOLLOWERS&style=for-the-badge&color=4F46E5&labelColor=111827" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/followers/shikharmishra392-gif?label=FOLLOWERS&style=flat-square&color=4F46E5&labelColor=0D1117" alt="GitHub Followers" height="24"/>
 </a>
 
 </div>
 
 <br/>
 
-##  About Me
+## About Me
 
 
 class ShikharMishra {
@@ -49,18 +49,17 @@ class ShikharMishra {
     mindset    = "Understand the problem → design the workflow → build → ship → improve";
 }
 
+I enjoy building software that solves real problems, not just isolated code snippets. That means understanding the user's pain point, designing a clean workflow, building both the frontend and backend, structuring the data correctly, integrating intelligent AI services where they add real value, and iterating on the product experience.
 
-I enjoy building software that solves **real problems**, not just isolated code snippets. That means understanding the user's pain point, designing a clean workflow, building both the frontend and backend, structuring the data correctly, integrating intelligent AI services where they add real value, and iterating on the product experience.
+My flagship project, StudyAI, brings this philosophy to life — combining Java backend engineering, AI API integration, video-content processing, structured learning workflows, persistent data, and a modern frontend into one product.
 
-My flagship project, **StudyAI**, brings this philosophy to life — combining **Java backend engineering, AI API integration, video-content processing, structured learning workflows, persistent data, and a modern frontend** into one product.
-
-I'm currently deepening my skills in **Data Structures & Algorithms, backend architecture, React, AI-assisted applications, and production-grade software engineering.**
+I'm currently deepening my skills in Data Structures & Algorithms, backend architecture, React, AI-assisted applications, and production-grade software engineering.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-** Engineering Focus**
+**Engineering Focus**
 - Software Engineering — Java, OOP, DSA, debugging, architecture
 - Backend Development — Spring Boot, REST APIs, MySQL, JPA/JDBC
 - AI Product Development — prompt engineering, AI API integration
@@ -70,7 +69,7 @@ I'm currently deepening my skills in **Data Structures & Algorithms, backend arc
 </td>
 <td width="50%" valign="top">
 
-** Open To**
+**Open To**
 - Software Engineering Internships
 - Java Backend Opportunities
 - Full Stack Roles
@@ -82,9 +81,9 @@ I'm currently deepening my skills in **Data Structures & Algorithms, backend arc
 </tr>
 </table>
 
----
+<br/>
 
-##  Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -92,34 +91,19 @@ I'm currently deepening my skills in **Data Structures & Algorithms, backend arc
 
 <img src="https://skillicons.dev/icons?i=java,python,javascript&theme=dark" alt="Languages"/>
 
-![Java](https://img.shields.io/badge/Java-Core%20Engineering-6D28D9?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Programming%20%26%20AI-4F46E5?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Web%20Development-7C3AED?style=flat-square&logo=javascript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Database%20Systems-312E81?style=flat-square&logo=mysql&logoColor=white)
-
-<br/>
+<br/><br/>
 
 **Frontend**
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="Frontend"/>
 
-![HTML5](https://img.shields.io/badge/HTML5-Semantic%20Web-6D28D9?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-Responsive%20Design-4F46E5?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-Currently%20Building-7C3AED?style=flat-square&logo=react&logoColor=white)
-
-<br/>
+<br/><br/>
 
 **Backend & Databases**
 
 <img src="https://skillicons.dev/icons?i=spring,mysql,mongodb&theme=dark" alt="Backend and Databases"/>
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Java%20Backend-6D28D9?style=flat-square&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API%20Development-4F46E5?style=flat-square&logo=fastapi&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-Persistence-7C3AED?style=flat-square&logo=hibernate&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Relational%20DB-312E81?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Exploring-6D28D9?style=flat-square&logo=mongodb&logoColor=white)
-
-<br/>
+<br/><br/>
 
 **Tools & Platforms**
 
@@ -127,68 +111,70 @@ I'm currently deepening my skills in **Data Structures & Algorithms, backend arc
 
 </div>
 
+<br/>
 
-##  AI / ML Expertise
+## AI / ML Expertise
 
 <div align="center">
 
 | Domain | Level | Details |
 | :-- | :--: | :-- |
-| **AI Product Development** | `Hands-On` | Building practical AI-assisted workflows around real user problems |
-| **Prompt Engineering** | `Certified` | Structured prompting, task instructions, output formatting |
-| **LLM API Integration** | `Hands-On` | Connecting backend apps to AI providers & processing outputs |
-| **Video-to-Knowledge Workflows** | `Hands-On` | Turning educational video into summaries, notes & quizzes |
-| **AI-Assisted Learning Systems** | `Hands-On` | Designing intelligent educational features |
-| **AI Backend Integration** | `Hands-On` | Connecting AI generation with Java + Spring Boot |
-| **Information Extraction** | `Growing` | Unstructured content → structured, reusable outputs |
+| AI Product Development | `Hands-On` | Building practical AI-assisted workflows around real user problems |
+| Prompt Engineering | `Certified` | Structured prompting, task instructions, output formatting |
+| LLM API Integration | `Hands-On` | Connecting backend apps to AI providers & processing outputs |
+| Video-to-Knowledge Workflows | `Hands-On` | Turning educational video into summaries, notes & quizzes |
+| AI-Assisted Learning Systems | `Hands-On` | Designing intelligent educational features |
+| AI Backend Integration | `Hands-On` | Connecting AI generation with Java + Spring Boot |
+| Information Extraction | `Growing` | Unstructured content → structured, reusable outputs |
 
 </div>
 
+<br/>
 
-##  Featured Projects
+## Featured Projects
 
-###  StudyAI — AI-Powered Video Learning Platform
-> Transforms long-form educational videos into structured, interactive study material.
+### StudyAI — AI-Powered Video Learning Platform
+Transforms long-form educational videos into structured, interactive study material.
 
 `Java` `Spring Boot` `REST APIs` `MySQL` `React` `yt-dlp` `AI APIs`
 
--  Educational video URL submission & transcript processing
--  AI-generated summaries, revision-oriented notes & quizzes
--  AI-powered cross-questioning around processed content
--  MySQL-backed persistent history & authentication-aware flows
--  React-based frontend with modular AI service integration
+- Educational video URL submission & transcript processing
+- AI-generated summaries, revision-oriented notes & quizzes
+- AI-powered cross-questioning around processed content
+- MySQL-backed persistent history & authentication-aware flows
+- React-based frontend with modular AI service integration
 
-**[→ Explore StudyAI repositories](https://github.com/shikharmishra392-gif?tab=repositories&q=studyai&type=&language=&sort=)**
+**[Explore StudyAI repositories](https://github.com/shikharmishra392-gif?tab=repositories&q=studyai&type=&language=&sort=)**
 
 <br/>
 
-###  Campus Lost & Found Portal — Database-Backed Recovery Platform
-> Centralizes lost-item reporting and recovery across a college campus.
+### Campus Lost & Found Portal — Database-Backed Recovery Platform
+Centralizes lost-item reporting and recovery across a college campus.
 
 `HTML5` `CSS3` `JavaScript` `Database-Backed Storage`
 
--  Lost-item reporting & found-item submission
--  Centralized, searchable item records
--  Responsive, campus-focused interface
+- Lost-item reporting & found-item submission
+- Centralized, searchable item records
+- Responsive, campus-focused interface
 
-**[→ Explore Lost & Found repositories](https://github.com/shikharmishra392-gif?tab=repositories&q=lost&type=&language=&sort=)**
+**[Explore Lost & Found repositories](https://github.com/shikharmishra392-gif?tab=repositories&q=lost&type=&language=&sort=)**
 
 <br/>
 
-###  Blogging Website — Content Publishing Platform
-> A frontend project focused on structured content and reusable UI patterns.
+### Blogging Website — Content Publishing Platform
+A frontend project focused on structured content and reusable UI patterns.
 
 `HTML5` `CSS3` `JavaScript` `Responsive Web Design`
 
--  Content-focused information architecture
--  Reusable interface components
--  User-friendly navigation
+- Content-focused information architecture
+- Reusable interface components
+- User-friendly navigation
 
-**[→ Explore Blogging repositories](https://github.com/shikharmishra392-gif?tab=repositories&q=blog&type=&language=&sort=)**
+**[Explore Blogging repositories](https://github.com/shikharmishra392-gif?tab=repositories&q=blog&type=&language=&sort=)**
 
+<br/>
 
-
-##  Experience
+## Experience
 
 <table>
 <tr>
@@ -224,26 +210,27 @@ OOP fundamentals — classes, objects, inheritance, polymorphism, abstraction, e
 </tr>
 </table>
 
----
+<br/>
 
-##  Achievements & Certifications
+## Achievements & Certifications
 
 <div align="center">
 
-![Academic Excellence](https://img.shields.io/badge/CBSE%20Class%20X-93.6%25-6D28D9?style=for-the-badge)
-![IBM AI](https://img.shields.io/badge/IBM-AI%20%26%20Prompt%20Engineering-4F46E5?style=for-the-badge&logo=ibm&logoColor=white)
-![IBM Cloud](https://img.shields.io/badge/IBM-Cloud%20Computing-7C3AED?style=for-the-badge&logo=ibm&logoColor=white)
-![Ensino Java](https://img.shields.io/badge/ENSINO-Core%20Java%20Training-312E81?style=for-the-badge&logo=openjdk&logoColor=white)
+![Academic Excellence](https://img.shields.io/badge/CBSE%20Class%20X-93.6%25-1a1a2e?style=flat-square&labelColor=1a1a2e)
+![IBM AI](https://img.shields.io/badge/IBM-AI%20%26%20Prompt%20Engineering-1a1a2e?style=flat-square&labelColor=1a1a2e)
+![IBM Cloud](https://img.shields.io/badge/IBM-Cloud%20Computing-1a1a2e?style=flat-square&labelColor=1a1a2e)
+![Ensino Java](https://img.shields.io/badge/ENSINO-Core%20Java%20Training-1a1a2e?style=flat-square&labelColor=1a1a2e)
 
 </div>
 
--  Building **StudyAI**, an AI-assisted educational video learning platform
--  Developed a **Campus Lost & Found Portal** solving a real campus problem
--  Progressing from Core Java/OOP into Spring Boot & database-backed applications
--  Full stack development across frontend, backend, APIs, databases, and AI
+- Building StudyAI, an AI-assisted educational video learning platform
+- Developed a Campus Lost & Found Portal solving a real campus problem
+- Progressing from Core Java/OOP into Spring Boot & database-backed applications
+- Full stack development across frontend, backend, APIs, databases, and AI
 
+<br/>
 
-##  GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -266,8 +253,9 @@ OOP fundamentals — classes, objects, inheritance, polymorphism, abstraction, e
 
 </div>
 
+<br/>
 
-##  Current Focus
+## Current Focus
 
 
 learning:
@@ -289,21 +277,24 @@ open_to:
   - AI Product Projects
   - Open Source Collaboration
 
+
+<br/>
+
 <div align="center">
 
-##  Let's Build Something Meaningful
+## Let's Build Something Meaningful
 
+<p>
 <a href="mailto:privatetho9@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-START%20A%20CONVERSATION-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-6D28D9?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117" height="32"/>
 </a>
 <a href="https://www.linkedin.com/in/shikhar-mishra-82b744327">
-  <img src="https://img.shields.io/badge/LINKEDIN-PROFESSIONAL%20NETWORK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117" height="32"/>
 </a>
 <a href="https://github.com/shikharmishra392-gif">
-  <img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20CODE-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" height="32"/>
 </a>
-
-<br/><br/>
+</p>
 
 **Shikhar Mishra** — *Software Engineering · Java Backend · AI Product Development · Full Stack Engineering*
 
