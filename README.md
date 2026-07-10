@@ -40,7 +40,7 @@
 
 ## About Me
 
-
+```text
 class ShikharMishra {
     role       = "B.Tech CSE Student @ SRMS CET, Bareilly";
     graduating = 2027;
@@ -48,6 +48,7 @@ class ShikharMishra {
     flagship   = "StudyAI — AI-powered video learning platform";
     mindset    = "Understand the problem → design the workflow → build → ship → improve";
 }
+```
 
 I enjoy building software that solves real problems, not just isolated code snippets. That means understanding the user's pain point, designing a clean workflow, building both the frontend and backend, structuring the data correctly, integrating intelligent AI services where they add real value, and iterating on the product experience.
 
@@ -257,7 +258,7 @@ OOP fundamentals — classes, objects, inheritance, polymorphism, abstraction, e
 
 ## Current Focus
 
-
+```yaml
 learning:
   - Data Structures & Algorithms
   - Advanced Java & Spring Boot
@@ -276,7 +277,7 @@ open_to:
   - Full Stack Development Roles
   - AI Product Projects
   - Open Source Collaboration
-
+```
 
 <br/>
 
